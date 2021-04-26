@@ -1,4 +1,4 @@
-// Programmer:
+// Programmer: Omer Mustel
 // Date: 
 // Purpose : Stack class implementation file
 #include <iostream>
